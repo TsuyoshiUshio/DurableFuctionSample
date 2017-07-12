@@ -1,0 +1,12 @@
+{
+  "bindings": [
+    {
+      "type": "activityTrigger",
+      "direction": "in",
+      "name": "context"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "..\\DFSample.dll",
+  "entryPoint": "DFSample.ParallelExec.EchoExec"
+}

@@ -1,0 +1,12 @@
+{
+  "bindings": [
+    {
+      "type": "orchestrationTrigger",
+      "direction": "in",
+      "name": "context"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "..\\bin\\DFSample.dll",
+  "entryPoint": "DFSample.ParallelExec.Run"
+}
